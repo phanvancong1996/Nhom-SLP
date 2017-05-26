@@ -1,0 +1,10 @@
+F:\DoAnCoSo\qewewqewqe\qewewqewqe\bin\Release\qewewqewqe.exe.config
+F:\DoAnCoSo\qewewqewqe\qewewqewqe\bin\Release\qewewqewqe.exe
+F:\DoAnCoSo\qewewqewqe\qewewqewqe\bin\Release\qewewqewqe.pdb
+F:\DoAnCoSo\qewewqewqe\qewewqewqe\obj\Release\qewewqewqe.csprojResolveAssemblyReference.cache
+F:\DoAnCoSo\qewewqewqe\qewewqewqe\obj\Release\qewewqewqe.fmain.resources
+F:\DoAnCoSo\qewewqewqe\qewewqewqe\obj\Release\qewewqewqe.Form1.resources
+F:\DoAnCoSo\qewewqewqe\qewewqewqe\obj\Release\qewewqewqe.Properties.Resources.resources
+F:\DoAnCoSo\qewewqewqe\qewewqewqe\obj\Release\qewewqewqe.csproj.GenerateResource.Cache
+F:\DoAnCoSo\qewewqewqe\qewewqewqe\obj\Release\qewewqewqe.exe
+F:\DoAnCoSo\qewewqewqe\qewewqewqe\obj\Release\qewewqewqe.pdb
